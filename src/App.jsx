@@ -57,7 +57,6 @@ const skills = [
 
 
 
-
 function App() {
   const [selectedCard, setSelectedCard] = useState(null);
 
